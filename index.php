@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DTQH Sportswear</title>
     <head>
-    <link rel="icon" type="product-imgs/png" href="../dtqhstore/product-imgs/AnyConv.com__DTQH.ico">
+    <link rel="icon" type="product-imgs/png" href="../product-imgs/AnyConv.com__DTQH.ico">
     </head>
     
     <!-- Google Fonts -->
