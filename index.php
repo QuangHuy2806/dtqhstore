@@ -80,7 +80,7 @@
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
                             <a href="index.php" style="background-color:#000000;color:#FFF">DTQH Sportswear
-                            <img src="../dtqhstore/product-imgs/logoweb.png" width="70" height="70"></a>
+                            <img src="../product-imgs/logoweb.png" width="70" height="70"></a>
 						</div>
 					</div>
 					<div class="col-sm-6">
@@ -155,7 +155,7 @@
 						<div class="search_box pull-right">
                         <form class="d-flex" method="POST" action="?page=search">
                                 <input name="txtSearch" class="border border-3 border-top-0 border-start-0 border-end-0" type="text" placeholder="Search" aria-label="Search" style=" outline: none;">
-                                <button type="submit" name="btnSearch"><img src="../dtqhstore/product-imgs/icons8-search.gif" alt="Image"></button>
+                                <button type="submit" name="btnSearch"><img src="../product-imgs/icons8-search.gif" alt="Image"></button>
                             </form>
 						</div>
 					</div>

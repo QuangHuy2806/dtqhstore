@@ -7,7 +7,7 @@ include_once("connection.php");
 			<div class="block-slider block-slider4">
 				<ul class="" id="bxslider-home4">
 					<li>
-						<img src="../dtqhstore/product-imgs/bo-suu-tap-air-force-1.jpg.webp" style="width: 40%;" alt="Slide">
+						<img src="../product-imgs/bo-suu-tap-air-force-1.jpg.webp" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
                             Air Force 1<span class="primary"> <strong></strong></span>
@@ -16,7 +16,7 @@ include_once("connection.php");
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="../dtqhstore/product-imgs/bo-suu-tap-air-jordan-1.jpg.webp" style="width: 40%;" alt="Slide">
+					<li><img src="../product-imgs/bo-suu-tap-air-jordan-1.jpg.webp" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
                            Air Jordan 1 <span class="primary"> <strong></strong></span>
@@ -25,7 +25,7 @@ include_once("connection.php");
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="../dtqhstore/product-imgs/bo-suu-tap-adidas-forum.jpg.webp" style="width: 40%;" alt="Slide">
+					<li><img src="../product-imgs/bo-suu-tap-adidas-forum.jpg.webp" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
                             Adidas Forum <span class="primary"> <strong></strong></span>
@@ -34,7 +34,7 @@ include_once("connection.php");
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="../dtqhstore/product-imgs/bo-suu-tap-mlb-liner.jpg.webp" style="width: 40%;" alt="Slide">
+					<li><img src="../product-imgs/bo-suu-tap-mlb-liner.jpg.webp" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 						  <h2 class="caption title">
                           MLB Liner <span class="primary"><strong></strong></span>
@@ -107,7 +107,7 @@ include_once("connection.php");
 				            <!--Một sản phẩm -->
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="../dtqhstore/product-imgs/<?php echo $row['Pro_image']?>" width="150" height="150">
+                                    <img src="../product-imgs/<?php echo $row['Pro_image']?>" width="150" height="150">
                                     <div class="product-hover">
                                         <a href="?func=dathang&ma=<?php echo  $row['Product_ID']?>" class="add-to-cart-link" ><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="?page=detail&&id=<?php echo  $row['Product_ID']?>" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -139,14 +139,14 @@ include_once("connection.php");
                 <div class="col-md-12">
                     <div class="brand-wrapper">
                         <div class="brand-list">
-                            <img src="../dtqhstore/product-imgs/brand1.jpg" alt="">
-                            <img src="../dtqhstore/product-imgs/brand2.jpg" alt="">
-                            <img src="../dtqhstore/product-imgs/brand3.jpg" alt="">
-                            <img src="../dtqhstore/product-imgs/brand4.jpg" alt="">
-                            <img src="../dtqhstore/product-imgs/brand5.jpg" alt="">
-                            <img src="../dtqhstore/product-imgs/brand6.jpg" alt="">
-                            <img src="../dtqhstore/product-imgs/brand7.jpg" alt="">
-                            <img src="../dtqhstore/product-imgs/brand8.jpg" alt="">                            
+                            <img src="../product-imgs/brand1.jpg" alt="">
+                            <img src="../product-imgs/brand2.jpg" alt="">
+                            <img src="../product-imgs/brand3.jpg" alt="">
+                            <img src="../product-imgs/brand4.jpg" alt="">
+                            <img src="../product-imgs/brand5.jpg" alt="">
+                            <img src="../product-imgs/brand6.jpg" alt="">
+                            <img src="../product-imgs/brand7.jpg" alt="">
+                            <img src="../product-imgs/brand8.jpg" alt="">                            
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@ include_once("connection.php");
                         <h2 class="product-wid-title">Bestseller</h2>
                         <a href="" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../dtqhstore/img/giay-nike-air-force-1-07-panda-dv0788-001.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.html"><img src="../product-imgs/giay-nike-air-force-1-07-panda-dv0788-001.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.html">Nike Air Force 1</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -177,7 +177,7 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../dtqhstore/product-imgs/giay-nike-air-jordan-1-low-se-heavy-tan-leather-fb7168-121-7.png.webp" alt="" class="product-thumb"></a>
+                            <a href="single-product.html"><img src="../product-imgs/giay-nike-air-jordan-1-low-se-heavy-tan-leather-fb7168-121-7.png.webp" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.html"></a>Nike Air Jordan 1 Low SE</h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -191,7 +191,7 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../dtqhstore/product-imgs/giay-nike-court-legacy-next-nature-white-desert-ochre-dh3162-100.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.html"><img src="../product-imgs/giay-nike-court-legacy-next-nature-white-desert-ochre-dh3162-100.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.html">Nike Court Legacy</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -211,7 +211,7 @@ include_once("connection.php");
                         <h2 class="product-wid-title">Recently Viewed</h2>
                         <a href="#" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../dtqhstore/product-imgs/nike-air-force-1-low-wheat-cj9179-200.png" alt="" class="product-thumb"></a>
+                            <a href="single-product.html"><img src="../product-imgs/nike-air-force-1-low-wheat-cj9179-200.png" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.html">Nike Air Force 1 Low</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -225,7 +225,7 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../dtqhstore/product-imgs/giay-adifom-superstar-core-black-hq8752-11.png" alt="" class="product-thumb"></a>
+                            <a href="single-product.html"><img src="../product-imgs/giay-adifom-superstar-core-black-hq8752-11.png" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.html">Adifom Superstar</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -239,7 +239,7 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../dtqhstore/product-imgs/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-‘White-Green.jpg.webp" alt="" class="product-thumb"></a>
+                            <a href="single-product.html"><img src="../product-imgs/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-‘White-Green.jpg.webp" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.html">Louis Vuitton x Nike Air Force 1 Low</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -259,7 +259,7 @@ include_once("connection.php");
                         <h2 class="product-wid-title">Latest</h2>
                         <a href="#" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../dtqhstore/product-imgs/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-‘White-Red.jpg.webp" alt="" class="product-thumb"></a>
+                            <a href="single-product.html"><img src="../product-imgs/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-‘White-Red.jpg.webp" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.html">Louis Vuitton x Nike Air Force 1 Low</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -273,7 +273,7 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../dtqhstore/product-imgs/dior-x-air-jordan-1-high-cn8607-002.png" alt="" class="product-thumb"></a>
+                            <a href="single-product.html"><img src="../product-imgs/dior-x-air-jordan-1-high-cn8607-002.png" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.html">Dior x Air Jordan 1 High</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -287,7 +287,7 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../dtqhstore/product-imgs/giay-bong-ro-nam-travis-scott-x-dunk-low-premium-qs-sb-cactus-jack-ct5053-101.png" alt="" class="product-thumb"></a>
+                            <a href="single-product.html"><img src="../product-imgs/giay-bong-ro-nam-travis-scott-x-dunk-low-premium-qs-sb-cactus-jack-ct5053-101.png" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.html">Travis Scott x Dunk Low Premium</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
