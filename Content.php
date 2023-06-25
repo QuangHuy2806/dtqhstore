@@ -16,7 +16,7 @@ include_once("connection.php");
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="../dtqhstore/product-imgs/lego-pirate-snub-fighter.jpg" style="width: 40%;" alt="Slide">
+					<li><img src="../product-imgs/lego-pirate-snub-fighter.jpg" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
                            PIRATE SNUB FIGHTER<span class="primary"> <strong></strong></span>
@@ -25,7 +25,7 @@ include_once("connection.php");
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="../dtqhstore/product-imgs/lego-501st-clone-trooper-battle-pack.png" style="width: 40%;" alt="Slide">
+					<li><img src="../product-imgs/lego-501st-clone-trooper-battle-pack.png" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
                             501ST CLONE TROOPER BATTLE PACK<span class="primary"> <strong></strong></span>
@@ -34,7 +34,7 @@ include_once("connection.php");
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="../dtqhstore/product-imgs/lego-at-te-walker.jpg" style="width: 40%;" alt="Slide">
+					<li><img src="../product-imgs/lego-at-te-walker.jpg" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 						  <h2 class="caption title">
                           AT-TE WALKER<span class="primary"><strong></strong></span>
@@ -145,8 +145,8 @@ include_once("connection.php");
                             <img src="../product-imgs/BRAND4Schleich.png" alt="">
                             <img src="../product-imgs/BRAND5Battat.jpg" alt="">
                             <img src="../product-imgs/BRAND6Fisher Price.png" alt="">
-                            <img src="../product-imgs/BRAND1LEGO.png" alt="">
-                            <img src="../product-imgs/BRAND2Hasbro.png" alt="">                            
+                            <img src="../product-imgs/BRAND7BARBIE.png" alt="">
+                            <img src="../product-imgs/BRAND8DISNEY.png" alt="">                            
                         </div>
                     </div>
                 </div>
