@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DTQH Sportswear</title>
+    <title>DTQH Toy Store</title>
     <head>
     <link rel="icon" type="product-imgs/png" href="../product-imgs/AnyConv.com__DTQH.ico">
     </head>
@@ -79,7 +79,7 @@
 				<div>
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
-                            <a href="index.php" style="background-color:#000000;color:#FFF">DTQH Sportswear
+                            <a href="index.php" style="background-color:#000000;color:#FFF">DTQH Toy Store
                             <img src="../product-imgs/logotoystore.png" width="70" height="70"></a>
 						</div>
 					</div>
@@ -216,7 +216,7 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-about-us">
-                        <h2 class="footer-wid-title"><h2>DQTH<span> Sportswear</span></h2>
+                        <h2 class="footer-wid-title"><h2>DQTH<span> Toy Store</span></h2>
                         <div class="footer-social">
                             <a href="https://www.facebook.com/crab.3015/" target="_blank"><i class="fa fa-facebook"></i></a>
                             <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -240,9 +240,9 @@
                 
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-menu">
-                        <h2 class="footer-wid-title">SNEAKER DAILY</h2>
+                        <h2 class="footer-wid-title">DTQH Toy Store</h2>
                         <ul>
-                            <li><a href="#">Introduction Sneaker Daily</a></li>
+                            <li><a href="#">Introduction DTQH Toy Store</a></li>
                             <li><a href="#">Shopping commitment</a></li>
                         </ul>                        
                     </div>
@@ -250,7 +250,7 @@
                 
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-newsletter">
-                        <h2 class="footer-wid-title">DTQH Sportswear listen to you</h2>
+                        <h2 class="footer-wid-title">DTQH Toy Store listen to you</h2>
                         <p>We always appreciate and expect to receive all comments from customers so that we can improve the service and product experience even better.</p>
                         <div class="newsletter-form">
                             <form action="#">
@@ -269,7 +269,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; DTQH Sportswear</p>
+                        <p>&copy; DTQH Toy Store</p>
                     </div>
                 </div>
                 
