@@ -80,7 +80,7 @@
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
                             <a href="index.php" style="background-color:#000000;color:#FFF">DTQH Sportswear
-                            <img src="../product-imgs/logoweb.png" width="70" height="70"></a>
+                            <img src="../product-imgs/logotoystore.png" width="70" height="70"></a>
 						</div>
 					</div>
 					<div class="col-sm-6">

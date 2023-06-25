@@ -7,39 +7,39 @@ include_once("connection.php");
 			<div class="block-slider block-slider4">
 				<ul class="" id="bxslider-home4">
 					<li>
-						<img src="../product-imgs/bo-suu-tap-air-force-1.jpg.webp" style="width: 40%;" alt="Slide">
+						<img src="../product-imgs/lego-razor-crest.jpg" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
-                            Air Force 1<span class="primary"> <strong></strong></span>
+                            THE RAZOR CREST<span class="primary"> <strong></strong></span>
 							</h2>
-							<h4 class="caption subtitle">Collection</h4>
+							<h4 class="caption subtitle">$174.99</h4>
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="../product-imgs/bo-suu-tap-air-jordan-1.jpg.webp" style="width: 40%;" alt="Slide">
+					<li><img src="../dtqhstore/product-imgs/lego-pirate-snub-fighter.jpg" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
-                           Air Jordan 1 <span class="primary"> <strong></strong></span>
+                           PIRATE SNUB FIGHTER<span class="primary"> <strong></strong></span>
 							</h2>
-							<h4 class="caption subtitle">New</h4>
+							<h4 class="caption subtitle">$39.99</h4>
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="../product-imgs/bo-suu-tap-adidas-forum.jpg.webp" style="width: 40%;" alt="Slide">
+					<li><img src="../dtqhstore/product-imgs/lego-501st-clone-trooper-battle-pack.png" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
-                            Adidas Forum <span class="primary"> <strong></strong></span>
+                            501ST CLONE TROOPER BATTLE PACK<span class="primary"> <strong></strong></span>
 							</h2>
-							<h4 class="caption subtitle">New</h4>
+							<h4 class="caption subtitle">$24.99</h4>
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="../product-imgs/bo-suu-tap-mlb-liner.jpg.webp" style="width: 40%;" alt="Slide">
+					<li><img src="../dtqhstore/product-imgs/lego-at-te-walker.jpg" style="width: 40%;" alt="Slide">
 						<div class="caption-group">
 						  <h2 class="caption title">
-                          MLB Liner <span class="primary"><strong></strong></span>
+                          AT-TE WALKER<span class="primary"><strong></strong></span>
 							</h2>
-							<h4 class="caption subtitle">NEW</h4>
+							<h4 class="caption subtitle">$179.99</h4>
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
@@ -139,14 +139,14 @@ include_once("connection.php");
                 <div class="col-md-12">
                     <div class="brand-wrapper">
                         <div class="brand-list">
-                            <img src="../product-imgs/brand1.jpg" alt="">
-                            <img src="../product-imgs/brand2.jpg" alt="">
-                            <img src="../product-imgs/brand3.jpg" alt="">
-                            <img src="../product-imgs/brand4.jpg" alt="">
-                            <img src="../product-imgs/brand5.jpg" alt="">
-                            <img src="../product-imgs/brand6.jpg" alt="">
-                            <img src="../product-imgs/brand7.jpg" alt="">
-                            <img src="../product-imgs/brand8.jpg" alt="">                            
+                            <img src="../product-imgs/BRAND1LEGO.png" alt="">
+                            <img src="../product-imgs/BRAND2Hasbro.png" alt="">
+                            <img src="../product-imgs/BRAND3Mattel.png" alt="">
+                            <img src="../product-imgs/BRAND4Schleich.png" alt="">
+                            <img src="../product-imgs/BRAND5Battat.jpg" alt="">
+                            <img src="../product-imgs/BRAND6Fisher Price.png" alt="">
+                            <img src="../product-imgs/BRAND1LEGO.png" alt="">
+                            <img src="../product-imgs/BRAND2Hasbro.png" alt="">                            
                         </div>
                     </div>
                 </div>
@@ -163,8 +163,8 @@ include_once("connection.php");
                         <h2 class="product-wid-title">Bestseller</h2>
                         <a href="" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../product-imgs/giay-nike-air-force-1-07-panda-dv0788-001.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Nike Air Force 1</a></h2>
+                            <a href="single-product.html"><img src="../product-imgs/UNOATTACK.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Brain game UNO ATTACK - AUTO DISTRIBUTOR Version</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -173,12 +173,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$300.00</ins> <del>$400.00</del>
+                                <ins>$46.72</ins>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../product-imgs/giay-nike-air-jordan-1-low-se-heavy-tan-leather-fb7168-121-7.png.webp" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html"></a>Nike Air Jordan 1 Low SE</h2>
+                            <a href="single-product.html"><img src="../product-imgs/SCHLEICHPRODUCT.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html"></a>Adventure with the tree house</h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -187,12 +187,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> 
+                                <ins>$89.25</ins> <del>$127.52</del>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../product-imgs/giay-nike-court-legacy-next-nature-white-desert-ochre-dh3162-100.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Nike Court Legacy</a></h2>
+                            <a href="single-product.html"><img src="../product-imgs/BATTATPRODUCT.jpeg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Pet doctor toy set</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -201,7 +201,7 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins>
+                                <ins>$33.12</ins>
                             </div>                            
                         </div>
                     </div>
@@ -211,8 +211,8 @@ include_once("connection.php");
                         <h2 class="product-wid-title">Recently Viewed</h2>
                         <a href="#" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../product-imgs/nike-air-force-1-low-wheat-cj9179-200.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Nike Air Force 1 Low</a></h2>
+                            <a href="single-product.html"><img src="../product-imgs/SCHLEICHPRODUCT2.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Eldrador World War Kit: Mighty Sword</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -221,12 +221,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins>
+                                <ins>$59.48</ins>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../product-imgs/giay-adifom-superstar-core-black-hq8752-11.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Adifom Superstar</a></h2>
+                            <a href="single-product.html"><img src="../product-imgs/LEGOCLASSIC.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Creative brick set with Classic tile base</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -235,12 +235,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> 
+                                <ins>$136.02</ins> 
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../product-imgs/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-‘White-Green.jpg.webp" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Louis Vuitton x Nike Air Force 1 Low</a></h2>
+                            <a href="single-product.html"><img src="../product-imgs/LEGOHOGWARTSTM.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Hogwarts Express Train™</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -249,7 +249,7 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins>
+                                <ins>$705.78</ins>
                             </div>                            
                         </div>
                     </div>
@@ -259,8 +259,8 @@ include_once("connection.php");
                         <h2 class="product-wid-title">Latest</h2>
                         <a href="#" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../product-imgs/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-‘White-Red.jpg.webp" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Louis Vuitton x Nike Air Force 1 Low</a></h2>
+                            <a href="single-product.html"><img src="../product-imgs/LEGOAVENGER.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Avenger's Spaceship Headquarters</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -269,12 +269,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins>
+                                <ins>$139.00</ins>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../product-imgs/dior-x-air-jordan-1-high-cn8607-002.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Dior x Air Jordan 1 High</a></h2>
+                            <a href="single-product.html"><img src="../product-imgs/FISHERPRICEPRODUCT.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Strong baby tiger walker</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -283,12 +283,12 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> 
+                                <ins>$76.49</ins> 
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="../product-imgs/giay-bong-ro-nam-travis-scott-x-dunk-low-premium-qs-sb-cactus-jack-ct5053-101.png" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Travis Scott x Dunk Low Premium</a></h2>
+                            <a href="single-product.html"><img src="../product-imgs/HASBROPRODUCT.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.html">Hippo Loves Eating Watermelon</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -297,7 +297,7 @@ include_once("connection.php");
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> 
+                                <ins>$50.98</ins> 
                             </div>                            
                         </div>
                     </div>
