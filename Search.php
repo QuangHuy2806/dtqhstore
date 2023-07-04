@@ -27,7 +27,7 @@
              <div class="col-md-4 pb-3">
                     <div class="card">
                         <img
-                        src="./img/<?=$r['Pro_image']?>"
+                        src="./product-imgs/pr<?=$r['Pro_image']?>"
                         class="card-img-top"
                         alt="Product1>" style="margin: auto;
                         width: 300px;"
